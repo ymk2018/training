@@ -5,6 +5,8 @@ def main():
     now = datetime.now(tz=pytz.timezone('Asia/Tokyo'))
     print(now.strftime('%Y/%m/%d %H:%M:%S'))
 
+    print(datetime.utcnow())
+
     # print('add this line')
     print(now.strftime('%Y/%m'))
 
