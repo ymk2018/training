@@ -10,7 +10,5 @@ def main():
     # print('add this line')
     print(now.strftime('%Y/%m'))
 
-    
-
 if __name__ == '__main__':
     main()
