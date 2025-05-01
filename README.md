@@ -18,8 +18,6 @@ this is a comment from b1
 
 ## add some text
 
-## add some text
-
 ```mermaid
 flowchart TB
 subgraph sub
@@ -32,5 +30,7 @@ b--yes-->a
 
 end
 ```
-```
-```
+
+## from branch1
+
+This text was written in branch1
